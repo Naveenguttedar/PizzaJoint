@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PizzaJoint/static/css/main.83c3a135.css",
+    "main.js": "/PizzaJoint/static/js/main.ba9a2ded.js",
+    "index.html": "/PizzaJoint/index.html",
+    "main.83c3a135.css.map": "/PizzaJoint/static/css/main.83c3a135.css.map",
+    "main.ba9a2ded.js.map": "/PizzaJoint/static/js/main.ba9a2ded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c3a135.css",
+    "static/js/main.ba9a2ded.js"
+  ]
+}
